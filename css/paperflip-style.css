@@ -801,7 +801,7 @@ label {
   align-items: center;
   border-radius: 100px;
   background-color: #111;
-  background-image: url('../images/telegram.svg');
+  background-image: url('../images/#.svg');
   background-position: 50% 50%;
   background-size: 24px;
   background-repeat: no-repeat;
@@ -824,7 +824,7 @@ label {
 }
 
 .contact-link-2.gm:hover {
-  background-color: #f02093;
+  background-color: #dd2a7b;
 }
 
 .contact-link-2.fb {
